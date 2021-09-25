@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Roomchat/static/css/main.95ba0a2f.chunk.css",
+    "main.js": "/Roomchat/static/js/main.48e8a8e5.chunk.js",
+    "main.js.map": "/Roomchat/static/js/main.48e8a8e5.chunk.js.map",
+    "runtime-main.js": "/Roomchat/static/js/runtime-main.44d9e3eb.js",
+    "runtime-main.js.map": "/Roomchat/static/js/runtime-main.44d9e3eb.js.map",
+    "static/js/2.4fb62c73.chunk.js": "/Roomchat/static/js/2.4fb62c73.chunk.js",
+    "static/js/2.4fb62c73.chunk.js.map": "/Roomchat/static/js/2.4fb62c73.chunk.js.map",
+    "index.html": "/Roomchat/index.html",
+    "static/css/main.95ba0a2f.chunk.css.map": "/Roomchat/static/css/main.95ba0a2f.chunk.css.map",
+    "static/js/2.4fb62c73.chunk.js.LICENSE.txt": "/Roomchat/static/js/2.4fb62c73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44d9e3eb.js",
+    "static/js/2.4fb62c73.chunk.js",
+    "static/css/main.95ba0a2f.chunk.css",
+    "static/js/main.48e8a8e5.chunk.js"
+  ]
+}
