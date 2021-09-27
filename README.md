@@ -12,4 +12,4 @@ Backend consists of Socket.io and ExpressJS.
 ## Deployment
 
 Frontend deployed on github pages https://siddhantmohanty2001.github.io/Roomchat/
-Backend deployed on heroku  https://room-chat-app-back.herokuapp.com/
+Backend deployed on heroku  https://roomchat-app-backend.herokuapp.com/
