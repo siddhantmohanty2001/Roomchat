@@ -7,7 +7,7 @@ function App() {
      
      <Router>
        <Route path="/Chat" component={Chat}/>
-        <Route path="/" exact component={Join}/>
+        <Route path="/Roomchat/" exact component={Join}/>
      </Router>
     </div>
   );

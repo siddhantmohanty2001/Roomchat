@@ -14,7 +14,7 @@ const Chat = ({location}) => { //locaton is the path of chat
     const [room,setRoom]=useState('');
     const [messages,setMessages]=useState([]);
     const [message,setMessage]=useState('')
-    const ENDPOINT='https://room-chat-app-back.herokuapp.com/';
+    const ENDPOINT='https://roomchat-app-backend.herokuapp.com/';
     useEffect(() => {
 
         const data=queryString.parse(location.search);
